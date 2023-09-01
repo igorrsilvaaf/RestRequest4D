@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/16 11:08:17.000.563,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/16 12:50:48.000.217,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/19 15:32:32.000.701,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/03 18:11:13.000.030,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/03 18:12:00.000.562,D:\99Coders\Posts\372 - Perfil de usuario para seu app\FontesFull\Servidor\UnitPrincipal.fmx=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023/08/03 18:12:00.000.562,D:\99Coders\Posts\372 - Perfil de usuario para seu app\FontesFull\Servidor\UnitPrincipal.pas=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/03 18:12:05.000.551,D:\99Coders\Posts\372 - Perfil de usuario para seu app\FontesFull\Servidor\Servidor.dproj=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/08/03 18:13:36.000.213,=D:\99Coders\Posts\372 - Perfil de usuario para seu app\FontesFull\Servidor\Unit1.pas</Transaction>
+    <Transaction>2023/08/03 18:13:44.000.442,D:\99Coders\Posts\372 - Perfil de usuario para seu app\FontesFull\Servidor\Unit1.pas=D:\99Coders\Posts\372 - Perfil de usuario para seu app\FontesFull\Servidor\UnitDM.pas</Transaction>
+    <Transaction>2023/08/03 18:13:44.000.442,D:\99Coders\Posts\372 - Perfil de usuario para seu app\FontesFull\Servidor\Unit1.dfm=D:\99Coders\Posts\372 - Perfil de usuario para seu app\FontesFull\Servidor\UnitDM.dfm</Transaction>
+    <Transaction>2023/08/14 17:14:49.000.844,=D:\99Coders\Posts\374 - Perfil de usuario para seu app 3\FontesFull\Servidor\Units\uFunctions.pas</Transaction>
+    <Transaction>2023/08/14 17:20:04.000.373,=D:\99Coders\Posts\374 - Perfil de usuario para seu app 3\FontesFull\Servidor\DataModules\UnitDM.pas</Transaction>
+    <Transaction>2023/08/14 17:20:28.000.682,=D:\99Coders\Posts\374 - Perfil de usuario para seu app 3\FontesFull\Servidor\Controllers\Controllers.Global.pas</Transaction>
+    <Transaction>2023/08/14 17:23:42.000.730,=D:\99Coders\Posts\374 - Perfil de usuario para seu app 3\FontesFull\Servidor\Units\uMD5.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacMini iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
